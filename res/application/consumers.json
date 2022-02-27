@@ -272,13 +272,6 @@
 				},
 				{
 					"company": "Google",
-					"position": "Intern SDE",
-					"department": "IT",
-					"start_date": "01.07.2013",
-					"end_date": "01.10.2013"
-				},
-				{
-					"company": "Google",
 					"position": "Senior SDE",
 					"department": "IT",
 					"start_date": "01.03.2017",
@@ -291,6 +284,13 @@
 					"department": "IT",
 					"start_date": "01.09.2014",
 					"end_date": "01.01.2015"
+				},
+				{
+					"company": "Google",
+					"position": "Intern SDE",
+					"department": "IT",
+					"start_date": "01.07.2013",
+					"end_date": "01.10.2013"
 				}
 			]
 		},
@@ -441,7 +441,7 @@
 			"languages": ["English"],
 			"languages_level": ["Experienced"],
 			"salary": 5000,
-			"rating": 5.0,
+			"rating": 5.1,
 			"education": [
 				{
 					"level": "college",
@@ -477,7 +477,7 @@
 			"languages": ["English", "French"],
 			"languages_level": ["Experienced", "Beginner"],
 			"salary": 9000,
-			"rating": 5.0,
+			"rating": 5.199999999999999,
 			"education": [
 				{
 					"level": "college",
