@@ -7,7 +7,6 @@ This is the final student project for the Object-Oriented Programming course. It
 ## :trophy: Features
   &nbsp;&nbsp; :small_orange_diamond: Clean and easy to use GUI  
   &nbsp;&nbsp; :small_orange_diamond: Possibility of adding additional users and companies  
-  &nbsp;&nbsp; :small_orange_diamond: Reflectors spot lighting  
 
 ## :page_facing_up: License
 This project is available under the [MIT][ref-mit] license; see [LICENSE](LICENSE) for the full license text.
