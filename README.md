@@ -2,7 +2,7 @@
 ![](./res/screenshots/project_logo.png)
 
 <!--- general description of the project -->
-This is the final student project for the Object-Oriented Programming course. It is a simple application designed for job applying and recruitment that reads information (Users, Recruiters and Managers) from the attached JSON files.
+This is the final student project for the Object-Oriented Programming course. It is a simple application designed for job applying and recruitment that reads information (Users, Recruiters and Managers) from the attached JSON files. The project follows the following  assignment [specifications]() with extra features added.
 
 ## :trophy: Features
   &nbsp;&nbsp; :small_orange_diamond: Clean and easy to use GUI  
